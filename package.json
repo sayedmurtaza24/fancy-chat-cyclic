@@ -9,10 +9,8 @@
    },
    "author": "Sayed Murtaza Muttahary",
    "license": "MIT",
-   "devDependencies": {
-      "peer": "^0.6.1"
-   },
    "dependencies": {
+      "peer": "^0.6.1",
       "cookie-parser": "^1.4.6",
       "cors": "^2.8.5",
       "dotenv": "^16.0.1",
